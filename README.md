@@ -13,14 +13,15 @@ This repository contains my personal notes from the Google Cybersecurity Profess
   ***
  The course consists of 8 modules, and my notes are structured accordingly:
 
-1️⃣ Course 1: Foundations of Cybersecurity 🏛️  
-2️⃣ Course 2: Play It Safe: Manage Security Risks ⚖️  
-3️⃣ Course 3: Networks and Network Security 🌍  
-4️⃣ Course 4: Linux and SQL for Cybersecurity 🐧📊  
-5️⃣ Course 5: Assets, Threats, and Vulnerabilities 🎯  
-6️⃣ Course 6: Detection and SIEM Tools 🛠️  
-7️⃣ Course 7: Incident Response and Forensics 🔍  
-8️⃣ Course 8: Security Policies and Compliance 📜
+  [1️⃣ Course 1: Foundations of Cybersecurity 🏛️](https://coursera.org/share/548e7f24c41847097afd4865df992a8e)  
+  [2️⃣ Course 2: Play It Safe: Manage Security Risks ⚖️](https://coursera.org/share/548e7f24c41847097afd4865df992a8e)  
+ [3️⃣ Course 3: Networks and Network Security 🌍 ](https://coursera.org/share/745ded9ebb01ae152ee7ed13e43f3550)  
+  [4️⃣ Course 4: Linux and SQL for Cybersecurity 🐧📊](https://coursera.org/share/cb311124c98794417909069f815b547e)  
+  [5️⃣ Course 5: Assets, Threats, and Vulnerabilities 🎯](https://coursera.org/share/407a16fc6470332a324d9cc26fb7adb4)  
+  [6️⃣ Course 6: Detection and SIEM Tools 🛠️](https://coursera.org/share/94bbc8a907cf15340ae85c5d48d8d862)  
+ [7️⃣ Course 7: Incident Response and Forensics 🔍 ](https://coursera.org/share/ae59110aa6d02feed4bbaff8693addfa)  
+[8️⃣ Course 8: Security Policies and Compliance 📜](https://coursera.org/share/ae59110aa6d02feed4bbaff8693addfa)
+
  ---
 # 🛠 Technologies & Tools Covered
 🔹 Operating Systems: Linux 🐧, Windows 🏁  
