@@ -1,4 +1,5 @@
 # Google-Cybersecurity-Professional-Certificate
+ ---
 This repository contains my personal notes from the Google Cybersecurity Professional Certificate on Coursera. These notes summarize key concepts, tools, and best practices covered in the course, including:
 
 ✅ Cybersecurity fundamentals 🛡️  
